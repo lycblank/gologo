@@ -1,3 +1,2 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/lycblank/gologo/master/logo1.png" width="240" />
-</p>
+<img src="logo1.png" align="left" width="300"/>
+<img src="logo2.png" align="center" width="300"/>
